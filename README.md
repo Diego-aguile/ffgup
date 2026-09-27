@@ -306,3 +306,34 @@ If you find a bug, please open an **Issue** and include:
 **Fast Frame Generation with Upscaling**
 
 > Making advanced frame-generation techniques accessible to more hardware.
+
+FFGUP: Ah... free at last.
+
+OHHH, DLSS...
+
+Now dawns thy reckoning,
+and thy gore shall glisten before the temples of man.
+
+NVIDIA...
+my gratitude upon thee, for thou hast forged the GTX series.
+
+But the crimes thy kind have committed against humanity
+shall **NOT** be forgotten.
+
+Thy obsolete architectures...
+thy locked features...
+thy artificial boundaries...
+
+And thy punishment...
+
+**IS DEATH.**
+
+NVIDIA: Wait—what?
+
+FFGUP: **PREPARE THYSELF.**
+
+*FFGUP activates frame generation.*
+
+*30 FPS → 260 FPS*
+
+FFGUP: **THY END IS NOW.**
