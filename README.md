@@ -307,7 +307,7 @@ If you find a bug, please open an **Issue** and include:
 
 > Making advanced frame-generation techniques accessible to more hardware.
 
-FFGUP: Ah... free at last.
+FFGUP prime: Ah... free at last.
 
 OHHH, DLSS...
 
@@ -330,10 +330,10 @@ And thy punishment...
 
 NVIDIA: Wait—what?
 
-FFGUP: **PREPARE THYSELF.**
+FFGUP prime: **PREPARE THYSELF.**
 
 *FFGUP activates frame generation.*
 
 *30 FPS → 260 FPS*
 
-FFGUP: **THY END IS NOW.**
+FFGUP prime: **THY END IS NOW.**
