@@ -44,24 +44,6 @@ This can increase the displayed FPS without requiring the game itself to render 
 
 ---
 
-## Example
-
-In one experimental test, the game(ULTRAKILL) was running at approximately:
-
-```text
-30 FPS
-```
-
-FFGUP generated additional frames and the displayed FPS reached approximately:
-
-```text
-175–260 FPS
-```
-
-These results depend heavily on the game, resolution, hardware, capture method, configuration, and measurement method. They should not be considered universal performance results.
-
----
-
 ## Latency
 
 Low latency is one of the main goals of FFGUP.
@@ -176,7 +158,7 @@ python ffgup.py
 FFGUP can also be distributed as a standalone executable:
 
 ```text
-inferencia_wgc.exe
+ffgup.exe
 ```
 
 This allows users to run the project without manually installing the Python environment.
@@ -258,10 +240,6 @@ Generated frames do not contain the same information as frames rendered natively
 * Flickering
 
 Results can vary significantly between games.
-
-WARNING:
-
-Do not run it by double-clicking unless you have a powerful GPU, such as the 1080 Ti or better.
 
 ---
 
